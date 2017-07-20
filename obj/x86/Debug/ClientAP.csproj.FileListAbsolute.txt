@@ -1,0 +1,8 @@
+C:\Users\ESicc\Desktop\ClientAP\bin\Debug\ClientAP.exe
+C:\Users\ESicc\Desktop\ClientAP\bin\Debug\ClientAP.pdb
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.csprojResolveAssemblyReference.cache
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.Form1.resources
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.Properties.Resources.resources
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.csproj.GenerateResource.Cache
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.exe
+C:\Users\ESicc\Desktop\ClientAP\obj\x86\Debug\ClientAP.pdb

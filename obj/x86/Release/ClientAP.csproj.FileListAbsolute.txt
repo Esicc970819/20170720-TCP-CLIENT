@@ -1,0 +1,8 @@
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.Form1.resources
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.Properties.Resources.resources
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.csproj.GenerateResource.Cache
+C:\CSharp\MyToolkit\ClientAP\bin\Release\ClientAP.exe
+C:\CSharp\MyToolkit\ClientAP\bin\Release\ClientAP.pdb
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.exe
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.pdb
+C:\CSharp\MyToolkit\ClientAP\obj\x86\Release\ClientAP.csprojResolveAssemblyReference.cache
